@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to FMCG Project, a comprehensive analysis and visualization endeavor centered on the Fast-Moving Consumer Goods (FMCG) sector. This project utilizes an extensive dataset from Excel files, exploring key aspects of FMCG operations with a primary emphasis on store management, asset utilization, and brand performance. The dataset includes vital parameters such as Store Manager details, Asset information, Brand characteristics, and more, offering a holistic view of the FMCG landscape. 
+Welcome to FMCG Project, a comprehensive analysis and visualization endeavor centered on the Fast-Moving Consumer Goods (FMCG) sector. This project utilizes an extensive dataset from Excel file, exploring key aspects of FMCG operations with a primary emphasis on store management, asset utilization, and brand performance. The dataset includes vital parameters such as Store Manager details, Asset information, Brand characteristics, and more, offering a holistic view of the FMCG landscape. 
 
 ## Key Performance Indicators (KPIs)
 #### 1. Total Sales Analysis:
