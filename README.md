@@ -17,6 +17,9 @@ Welcome to FMCG Project, a comprehensive analysis and visualization endeavor cen
 #### 10. Product Category Performance:
 #### 11. Geographical Analysis:
 
+
+![Tableau Sales Dadhboard image](https://github.com/Kanchan8866/FMCG-Sales-Analytics/assets/159992336/040919d1-92f4-43e1-bb23-cccc90d9aa2b)
+
 ## Key Insights
 
 •	Carpolish's Kolkata store emerges as the top performer with the highest sales of ₹1,178,889, closely followed by CRS Mall Street at ₹9,894,493. Notably, the year 2017 records the highest sales at ₹2,556,757, surpassing the figures for 2018, which stand at ₹1,627,466. 
